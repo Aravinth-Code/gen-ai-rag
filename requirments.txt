@@ -1,0 +1,6 @@
+langchain>=0.2
+langchain-community
+pgvector
+psycopg2-binary
+sqlalchemy
+openai
